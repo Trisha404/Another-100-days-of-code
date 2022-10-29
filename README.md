@@ -19,7 +19,7 @@ November 1st 2022
 
 
 ## Contents
-* [Rules](rules.md)
+* [Rules](readme.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
